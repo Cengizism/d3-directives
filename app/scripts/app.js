@@ -1,7 +1,7 @@
 'use strict';
 
-angular.module('d3StackedBarsApp', [
-  'd3StackedBarsApp.directives',
+angular.module('d3App', [
+  'd3App.directives',
   'ngCookies',
   'ngResource',
   'ngSanitize',

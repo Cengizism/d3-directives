@@ -1,15 +1,85 @@
 <div class="row">
   <div class="col-md-12">
+    
+    <div class="row-fluid">
+        <div><strong>Stacked Bars Example</strong></div>
+        <div class="span10" style="height:300px">
+            <d3-stacked-bars
+              data="stackedBarsData"
+              width="600"
+              height="300"
+              top="20"
+              right="20"
+              bottom="30"
+              left="40"
+              />
+        </div>
+    </div>
 
-    <d3-stacked-bars
-      data="stackedBarsData"
-      width="600"
-      height="300"
-      top="20"
-      right="20"
-      bottom="30"
-      left="40"
-      ></d3-stacked-bars>
+    <hr>    
+
+    <div class="row-fluid">
+        <div><strong>Date Histogram Example</strong></div>
+        <div class="span10" style="height:200px">
+            <d3:date-histo
+                duration="750"
+                interval="month"
+                on-click="filterSearchA"
+                bind="results.facets.Times"
+            />
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row-fluid">
+        <div><strong>Bar Chart Example</strong></div>
+        <div class="span10" style="height:200px">
+            <d3:bar
+                width="900"
+                height="175"
+                duration="750"
+                on-click="filterSearchA"
+                bind="results.facets.Product"
+            />
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row-fluid">
+        <div><strong>Pie &amp; Donut Chart Example</strong></div>
+        <div class="span5" style="height:350px">
+            <d3:donut 
+                outer-radius="200"
+                inner-radius="75"
+                duration="750"
+                on-click="filterSearchA" 
+                bind="results.facets.Product" />
+        </div>
+
+        <div class="span2" style="height:200px;">
+            <d3:pie 
+                outer-radius="100"
+                on-click="filterSearchA" 
+                bind="results.facets.Sex" />
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row-fluid">
+        <div><strong>Area Chart Example</strong></div>
+        <div class="span10" style="height:200px">
+            <d3:area 
+                bind="results.facets.Times"
+                duration="750"
+                interpolate="true"
+                on-click="filterSearchA" />
+        </div>
+    </div>
+
+
 
   </div>
 </div>

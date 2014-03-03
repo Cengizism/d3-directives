@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('d3StackedBarsApp.directives', [])
+angular.module('d3App.directives', [])
   .directive('d3StackedBars',
     [
       '$window', '$timeout',
