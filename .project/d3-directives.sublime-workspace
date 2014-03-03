@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getRepos"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"set ",
+				"Set Syntax: YAML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cengizulusoy/Desktop/kilicadvocatuur.sql",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/1BFF4D60-950D-4654-A47D-F8A50A7F0BC4/app_controller.php",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/A597C318-9796-4D26-AC50-0DBF5C9B6665/app_controller.php",
+		"/Users/cengizulusoy/Ask/Drive/Projects/EIC-RAM/Usables/pale-down/map2.html",
+		"/Users/cengizulusoy/Ask/Drive/Projects/EIC-RAM/Usables/pale-down/map.html",
+		"/Users/cengizulusoy/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cengizulusoy/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/cengizulusoy/Desktop/others/masondemo.dunked.com/weather-watching/index.html",
+		"/Users/cengizulusoy/Desktop/others/masondemo.dunked.com/weather-watching/lightbox/index.html",
+		"/Users/cengizulusoy/Workspace/Bucket/_cengizism (requirejs)/.gitignore",
+		"/Users/cengizulusoy/Workspace/Bucket/_cengizism (requirejs)/.bowerrc",
+		"/Users/cengizulusoy/Workspace/Bucket/_cengizism (requirejs)/README.md",
+		"/Users/cengizulusoy/Workspace/Bucket/_cengizism (requirejs)/app/index.jade",
+		"/Users/cengizulusoy/Workspace/Bucket/_cengizism (requirejs)/.tmp/index.html",
+		"/Users/cengizulusoy/Desktop/polymer/Gruntfile.js",
+		"/Users/cengizulusoy/Desktop/polymer/app/index.html",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/src/equal.js",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/dr.json",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/src/copy.js",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/src/mina.js",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/.gitmodules",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/.gitignore",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/LICENSE",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/demos/snap-mascot/crocodile-2.html",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/demos/snap-mascot/index.html",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/demos/snap-mascot/crocodile-1.html",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/demos/illustrated-infographic-coffee/demo.svg",
+		"/Users/cengizulusoy/Desktop/Snap.svg-0.1.0/demos/illustrated-infographic-coffee/index.html",
+		"/Users/cengizulusoy/.shuttle.json",
+		"/Users/cengizulusoy/Downloads/daux.io-master/composer.json",
+		"/Users/cengizulusoy/Downloads/ghost-0.3.3.zip Folder/package.json",
+		"/Users/cengizulusoy/Desktop/store.js/store.js",
+		"/Users/cengizulusoy/Desktop/specs.js",
+		"/Users/cengizulusoy/Desktop/node_modules/grunt-contrib-watch/tasks/lib/livereload.js",
+		"/Users/cengizulusoy/Desktop/angular-local-storage/angular-local-storage.js",
+		"/Users/cengizulusoy/Desktop/angular-local-storage.js",
+		"/Users/cengizulusoy/Develop/Trainings/angularjs-book-master/chapter4/guthub/app/scripts/directives/directives.js",
+		"/Applications/Eclipse/configuration/config.ini",
+		"/Users/cengizulusoy/Workspace/Git/angular-github-activity/node_modules/grunt-contrib-watch/test/tasks/livereload_test.js",
+		"/Users/cengizulusoy/Desktop/Alfred with License file v. 2.0.2/license.plist",
+		"/Users/cengizulusoy/Workspace/Bucket/webkit-notifications/.gitignore",
+		"/Users/cengizulusoy/Desktop/bash_profile.txt",
+		"/Users/cengizulusoy/Desktop/config_fish.txt",
+		"/Users/cengizulusoy/Desktop/Exchange/responsive-shabloon.css",
+		"/Users/cengizulusoy/Desktop/gitapi/server.js",
+		"/Users/cengizulusoy/Desktop/Check/change locations/navigation-3.html",
+		"/Users/cengizulusoy/Desktop/Check/md5.js",
+		"/Users/cengizulusoy/Desktop/Check/password_strength_plugin.js",
+		"/Users/cengizulusoy/Desktop/webapp/Gruntfile.js",
+		"/Users/cengizulusoy/Desktop/webapp/app/index.html",
+		"/Users/cengizulusoy/Desktop/webapp/app/views/main.html",
+		"/Users/cengizulusoy/Develop/Ask/Labs/libphonenumber-read-only/javascript/i18n/phonenumbers/demo-compiled.js",
+		"/Users/cengizulusoy/Develop/Ask/Git/webpaige-lib-phonenumber/libphonenumber.js",
+		"/Users/cengizulusoy/Develop/Ask/Git/webpaige-lib-phonenumber/bower.json",
+		"/Users/cengizulusoy/Desktop/libPhoneNumberValidation.js",
+		"/Users/cengizulusoy/Desktop/Delivered-To-culusoy@ask-cs.txt",
+		"/Users/cengizulusoy/Desktop/bookmarks_10_30_13.html",
+		"/Users/cengizulusoy/Develop/Ask/Labs/libphonenumber-read-only/javascript/i18n/phonenumbers/asyoutypeformatter_test.html",
+		"/Users/cengizulusoy/Develop/Ask/Labs/libphonenumber-read-only/javascript/i18n/phonenumbers/phonenumberutil_test.js",
+		"/Users/cengizulusoy/Develop/Ask/Labs/libphonenumber-read-only/javascript/i18n/phonenumbers/phonenumberutil_test.html",
+		"/Users/cengizulusoy/Develop/Ask/Labs/libphonenumber-read-only/javascript/i18n/phonenumbers/phonenumberutil.js",
+		"/Users/cengizulusoy/Develop/Ask/Labs/libphonenumber-read-only/javascript/build.xml",
+		"/Users/cengizulusoy/Develop/Ask/Labs/libphonenumber-read-only/javascript/i18n/phonenumbers/phonemetadata.pb.js",
+		"/Users/cengizulusoy/Desktop/library.db",
+		"/Users/cengizulusoy/Downloads/oneline_work_files.zip Folder/icomoon.zip Folder/style.css",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/6867B9D1-844D-4929-934F-3A6E7049786D/contact.html",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/6E81E5E6-8941-4963-A971-76827A6B7F7C/ezsqlmysql.php",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/16D706F0-EEFE-43C5-AE9B-1E1612FBE0AC/application.php",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/5F720F44-B31D-4361-A363-F0B7788B758F/.htaccess",
+		"/Users/cengizulusoy/Downloads/Latest-Versio-API 4 2 3/PHP Class/class_versio_api.php",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/AF718E69-AFE2-4E2C-A15E-168DD4F28E3D/index.html",
+		"/Users/cengizulusoy/Desktop/promoneline/index.html",
+		"/Users/cengizulusoy/Inbox/Accounts/FileZilla.xml",
+		"/Users/cengizulusoy/Inbox/Accounts/report.html",
+		"/Users/cengizulusoy/Sources/References/Coversions/buttons-l2.js",
+		"/Users/cengizulusoy/Sources/References/Coversions/style1.css",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/0D5BE726-AB47-4CBD-81AD-623D2571905C/p2000.php",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/2CCA78E1-3CB4-4424-BC1F-A7D7AA8F0AE7/p2000.php",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/A381BE27-D4D0-4DBB-A9F3-DDB5AEA3A2CD/profile.js",
+		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/AB193A9B-6BD7-4DAF-9472-0D030A543FB0/index.html",
+		"/Users/cengizulusoy/Desktop/TransmitFavorites.exportedFavorites",
+		"/Users/cengizulusoy/Desktop/home.js",
+		"/Users/cengizulusoy/Develop/Labs/gitApi/connect.js",
+		"/Users/cengizulusoy/Develop/Labs/gitApi/query.js",
+		"/Users/cengizulusoy/Develop/Labs/gitApi/server.js",
+		"/Users/cengizulusoy/Develop/Labs/gitApi/server_github_module.js",
+		"/Users/cengizulusoy/Develop/Labs/gitApi/github.js",
+		"/Users/cengizulusoy/Desktop/oneline/sass/app.scss",
+		"/Users/cengizulusoy/Desktop/oneline/sass/_variables.scss",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/views/core.html",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/config.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/profiles/profile.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/bootstrap.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/webpaige.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/modals/core.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/views/login.html",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/coreCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/forgotpassCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/guarderCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/loginCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/logoutCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/managerCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/notifierCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/purchaserCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/registerCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/controllers/reporterCtrl.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/directives/directives.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/modals/user.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/services/generators.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/services/md5.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/services/session.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/services/storage.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/services/strings.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/routes.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/views/forgotpass.html",
+		"/Users/cengizulusoy/Develop/Ask/Git/oneline/app/views/forgotpass.jade",
+		"/Users/cengizulusoy/Develop/Ask/Git/oneline/app/views/login.jade",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/views/logout.html",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/views/register.html",
+		"/Users/cengizulusoy/Develop/Ask/Git/oneline/app/views/register.jade",
+		"/Users/cengizulusoy/Develop/Ask/Git/oneline/app/views/core.jade",
+		"/Users/cengizulusoy/Desktop/oneline/war/index.html",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/filters/filters.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/data.js",
+		"/Users/cengizulusoy/Desktop/oneline/war/js/localization.js",
+		"/Users/cengizulusoy/Desktop/All/upgrade-reddings-ask73a08-to-web-paige.json",
+		"/Users/cengizulusoy/Desktop/All/client_secrets.json",
+		"/Users/cengizulusoy/Downloads/simple_html_dom.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-->",
+			"<!--",
+			".icon-",
+			"img/",
+			"Cengizism",
+			"https",
+			"tabs-left",
+			"tabbable",
+			"passwords",
+			"CAKE_CORE_INCLUDE_PATH"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".icomoon-",
+			"statics/img/"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/cengizulusoy/Workspace/Labs/d3-directives"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,8 +1,8 @@
 'use strict';
 
 angular.module('d3StackedBarsApp')
-  .controller('MainCtrl', function ($scope) {
-
+  .controller('MainCtrl', function ($scope)
+  {
     $scope.stackedBarsData = [
       {
         year: 13,
@@ -55,8 +55,4 @@ angular.module('d3StackedBarsApp')
         corrective: 10
       }
     ];
-    
-    
-    
-    
   });
