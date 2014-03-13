@@ -21,8 +21,6 @@ angular.module('d3App.directives')
 
             link: function(scope, element, attrs) {
 
-                console.log('inited?');
-
                 var margin = {
                     top: 20, 
                     right: 20, 
@@ -81,7 +79,9 @@ angular.module('d3App.directives')
                 var svg = d3.select(element[0])
                     .append('svg')
                         .attr('preserveAspectRatio', 'xMinYMin')
-                        .attr('viewBox', '0 0 ' + (width + margin.left + margin.right) + ' ' + (height + margin.top + margin.bottom))
+                        .attr('viewBox', '0 0 ' + 
+                                          (width + margin.left + margin.right) + ' ' + 
+                                          (height + margin.top + margin.bottom))
                         .append('g')
                             .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
 

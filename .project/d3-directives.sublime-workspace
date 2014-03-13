@@ -11,11 +11,51 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/views/main.html",
+			"settings":
+			{
+				"buffer_size": 2159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/directives/d3-date-histo.js",
+			"settings":
+			{
+				"buffer_size": 7655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/index.html",
+			"settings":
+			{
+				"buffer_size": 2576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 3503,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 201.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -83,7 +123,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 457.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -104,12 +144,22 @@
 	},
 	"file_history":
 	[
+		"/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/directives/d3-area.js",
+		"/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/directives/d3-pie.js",
+		"/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/directives/d3-donut.js",
+		"/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/directives/d3-date-histo.js",
+		"/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/directives/d3-columns.js",
+		"/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/directives/d3-bars.js",
+		"/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/directives/d3-stacked-bars.js",
+		"/Users/cengizulusoy/Workspace/Labs/d3-directives/app/styles/main.scss",
+		"/Users/cengizulusoy/Workspace/Labs/d3-directives/app/index.html",
+		"/Users/cengizulusoy/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/cengizulusoy/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/cengizulusoy/Desktop/kilicadvocatuur.sql",
 		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/1BFF4D60-950D-4654-A47D-F8A50A7F0BC4/app_controller.php",
 		"/Users/cengizulusoy/Library/Caches/Cleanup At Startup/Transmit/A597C318-9796-4D26-AC50-0DBF5C9B6665/app_controller.php",
 		"/Users/cengizulusoy/Ask/Drive/Projects/EIC-RAM/Usables/pale-down/map2.html",
 		"/Users/cengizulusoy/Ask/Drive/Projects/EIC-RAM/Usables/pale-down/map.html",
-		"/Users/cengizulusoy/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/cengizulusoy/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/cengizulusoy/Desktop/others/masondemo.dunked.com/weather-watching/index.html",
 		"/Users/cengizulusoy/Desktop/others/masondemo.dunked.com/weather-watching/lightbox/index.html",
@@ -221,17 +271,7 @@
 		"/Users/cengizulusoy/Desktop/oneline/war/js/views/forgotpass.html",
 		"/Users/cengizulusoy/Develop/Ask/Git/oneline/app/views/forgotpass.jade",
 		"/Users/cengizulusoy/Develop/Ask/Git/oneline/app/views/login.jade",
-		"/Users/cengizulusoy/Desktop/oneline/war/js/views/logout.html",
-		"/Users/cengizulusoy/Desktop/oneline/war/js/views/register.html",
-		"/Users/cengizulusoy/Develop/Ask/Git/oneline/app/views/register.jade",
-		"/Users/cengizulusoy/Develop/Ask/Git/oneline/app/views/core.jade",
-		"/Users/cengizulusoy/Desktop/oneline/war/index.html",
-		"/Users/cengizulusoy/Desktop/oneline/war/js/filters/filters.js",
-		"/Users/cengizulusoy/Desktop/oneline/war/js/data.js",
-		"/Users/cengizulusoy/Desktop/oneline/war/js/localization.js",
-		"/Users/cengizulusoy/Desktop/All/upgrade-reddings-ask73a08-to-web-paige.json",
-		"/Users/cengizulusoy/Desktop/All/client_secrets.json",
-		"/Users/cengizulusoy/Downloads/simple_html_dom.php"
+		"/Users/cengizulusoy/Desktop/oneline/war/js/views/logout.html"
 	],
 	"find":
 	{
@@ -284,8 +324,154 @@
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/views/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/directives/d3-date-histo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								653,
+								653
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 483.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1703,
+								1703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/cengizulusoy/Workspace/Labs/d3-directives/app/scripts/controllers/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 58.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

@@ -4,7 +4,7 @@
     <div class="row-fluid">
         <div><strong>Stacked Bars Example</strong></div>
         <div class="span10" style="height:300px">
-            <d3-stacked-bars
+            <d3:stacked-bars
               data="stackedBarsData"
               width="600"
               height="300"
@@ -27,6 +27,19 @@
                 on-click="filterSearchA"
                 bind="results.facets.Times"
             />
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row-fluid">
+        <div><strong>Area Chart Example</strong></div>
+        <div class="span10" style="height:200px">
+            <d3:area 
+                bind="results.facets.Times"
+                duration="750"
+                interpolate="true"
+                on-click="filterSearchA" />
         </div>
     </div>
 
@@ -63,19 +76,6 @@
                 outer-radius="100"
                 on-click="filterSearchA" 
                 bind="results.facets.Sex" />
-        </div>
-    </div>
-
-    <hr>
-
-    <div class="row-fluid">
-        <div><strong>Area Chart Example</strong></div>
-        <div class="span10" style="height:200px">
-            <d3:area 
-                bind="results.facets.Times"
-                duration="750"
-                interpolate="true"
-                on-click="filterSearchA" />
         </div>
     </div>
 
